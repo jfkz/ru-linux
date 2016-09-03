@@ -1,4 +1,6 @@
-# Repository to update locales in different version of Linux dists
+# Summary
+
+This repository is used to update locales in different version of Linux dists
 
 ## Existing languages and dists
 
